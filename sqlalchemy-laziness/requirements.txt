@@ -1,0 +1,3 @@
+pytest
+sqlalchemy
+factory-boy
